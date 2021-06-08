@@ -5,8 +5,8 @@
 % slightly differ from the manuscript depending on your OS and version of
 % Matlab.
 
-% The first section runs BMR on the estimated full models (whose data are
-% saved in the GCM.mat file) and generates the results displayed in Figure
+% The first section runs BMR on the estimated full models whose data are
+% saved in the GCM.mat file and generates the results displayed in Figure
 % 3.
 
 % The second section runs a PEB model containing a parameter to quantify
