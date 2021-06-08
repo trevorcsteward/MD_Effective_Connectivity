@@ -10,10 +10,10 @@
 % 3.
 
 % The second section runs a PEB model containing a parameter to quantify
-% the effects of PTQ scores (saved in M_PSQ.mat) on each of the DCM
-% modulatory {'B'} pathways. MPFC-to-MD modulatory effects are tested
-% using leave-one-out cross validation to generate the results depicted in
-% Figure 4.
+% the effects of PTQ scores, which are save saved in M_PSQ.mat, on each of
+% the DCM modulatory {'B'} pathways. MPFC-to-MD modulatory effects are
+% tested using leave-one-out cross validation to generate the results
+% depicted in Figure 4.
 
 %% Load GCM & M.mat file and run BMR
 clear
